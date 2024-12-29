@@ -1,0 +1,6 @@
+{
+  "name": "healthcheck-client",
+  "version": "0.0.1",
+  "description": "Checks API downtime",
+  "license": "MIT"
+}
